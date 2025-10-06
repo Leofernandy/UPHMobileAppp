@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368794398074",
+    "project_id": "uphmobileappp23si2",
+    "storage_bucket": "uphmobileappp23si2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368794398074:android:59780063ea965c0617fac3",
+        "android_client_info": {
+          "package_name": "com.example.uphmobileappp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh2-fOwMl-WWPxKMdo5LeLXWb0rz8MevE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
